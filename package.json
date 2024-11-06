@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "lighthouse": "^12.2.1"
+  },
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "This is my First lab Portfolio repo.",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
